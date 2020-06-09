@@ -144,4 +144,4 @@ Give a :star: if you like this project!
 [stars-url]: https://github.com/rammazzoti2000/toy_app/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rammazzoti2000/toy_app.svg?style=flat-square
 [issues-url]: https://github.com/rammazzoti2000/toy_app/issues
-[product-screenshot]: app/assets/images/screenshot.PNG
+[product-screenshot]: app/assets/images/screenshot.png
