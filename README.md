@@ -31,7 +31,7 @@
   <p align="center">
     This project is part of the Microverse Ruby on Rails curriculum!
     <br />
-    <a href="https://github.com/euqueme/toy-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rammazzoti2000/toy_app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
@@ -136,12 +136,12 @@ Give a :star: if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rammazzoti2000/toy-app.svg?style=flat-square
-[contributors-url]: https://github.com/rammazzoti2000/toy-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rammazzoti2000/toy-app.svg?style=flat-square
-[forks-url]: https://github.com/rammazzoti2000/toy-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/rammazzoti2000/toy-app.svg?style=flat-square
-[stars-url]: https://github.com/rammazzoti2000/toy-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rammazzoti2000/toy-app.svg?style=flat-square
-[issues-url]: https://github.com/rammazzoti2000/toy-app/issues
+[contributors-shield]: https://img.shields.io/github/contributors/rammazzoti2000/toy_app.svg?style=flat-square
+[contributors-url]: https://github.com/rammazzoti2000/toy_app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rammazzoti2000/toy_app.svg?style=flat-square
+[forks-url]: https://github.com/rammazzoti2000/toy_app/network/members
+[stars-shield]: https://img.shields.io/github/stars/rammazzoti2000/toy_app.svg?style=flat-square
+[stars-url]: https://github.com/rammazzoti2000/toy_app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rammazzoti2000/toy_app.svg?style=flat-square
+[issues-url]: https://github.com/rammazzoti2000/toy_app/issues
 [product-screenshot]: app/assets/images/screenshot.PNG
